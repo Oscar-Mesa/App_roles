@@ -73,6 +73,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="cls_conexion.cs" />
+    <Compile Include="cls_personas.cs" />
     <Compile Include="frm_persona.aspx.cs">
       <DependentUpon>frm_persona.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

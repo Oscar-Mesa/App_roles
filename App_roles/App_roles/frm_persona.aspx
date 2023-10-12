@@ -11,7 +11,7 @@
 <body>
     <form id="form1" runat="server">
         <div id="container">
-            <h3>Formulario de Registro de Crédito</h3>
+            <h3>Formulario de Registro de Personas</h3>
             <div class="form-group">
                 <asp:TextBox ID="txt_codigo" runat="server" placeholder="ID *" required ="true"></asp:TextBox> 
             </div>
