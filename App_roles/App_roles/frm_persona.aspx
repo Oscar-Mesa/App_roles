@@ -42,7 +42,7 @@
             </asp:DropDownList>
 
             <div class="btn-group">
-                <asp:Button ID="btn_registrar" runat="server" Text="Registrar" CssClass="btn"   />
+                <asp:Button ID="btn_registrar" runat="server" Text="Registrar" CssClass="btn" OnClick="btn_registrar_Click"   />
                 <asp:Button ID="btn_cancelar" runat="server" Text="Cancelar" CssClass="btn btn-cancelar"   />
                 <asp:Button ID="btn_consultar" runat="server" Text="Consulta" CssClass="btn"  />
             </div>
